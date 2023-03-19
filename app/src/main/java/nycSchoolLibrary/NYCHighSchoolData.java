@@ -1,4 +1,4 @@
-package com.ermias.a20180101_ermiasabdi_nycschools;
+package nycSchoolLibrary;
 
 public class NYCHighSchoolData {
 

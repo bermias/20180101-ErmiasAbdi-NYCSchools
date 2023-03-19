@@ -1,4 +1,4 @@
-package com.ermias.a20180101_ermiasabdi_nycschools;
+package nycSchoolLibrary;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

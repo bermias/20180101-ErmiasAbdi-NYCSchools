@@ -14,6 +14,10 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 
+import nycSchoolLibrary.NYCHSAPICall;
+import nycSchoolLibrary.NYCHighSchoolData;
+import nycSchoolLibrary.NYHSData;
+import nycSchoolLibrary.RetrofitInstance;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
